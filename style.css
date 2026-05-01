@@ -1,0 +1,8 @@
+nav ul {
+    display: flex;
+    list-style: none; /* enlève les points */
+    gap: 20px; /* espace entre les liens */
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
